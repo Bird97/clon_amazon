@@ -4,7 +4,7 @@ import ShoppingBasketIcon from '@mui/icons-material/ShoppingBasket';
 import StorefrontIcon from '@mui/icons-material/Storefront';
 import SearchIcon from '@mui/icons-material/Search';
 
-function Header() {
+function Header() { //componente Header
   return (
     <div className='header'>
         <div className='header__logo'>
