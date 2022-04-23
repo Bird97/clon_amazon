@@ -6,7 +6,6 @@
     position: sticky;
     top: 0;
     z-index: 100;
-
 }
 
 .header__logo {
@@ -39,7 +38,6 @@
     padding: 10px;
     border-radius: 15px 0px 0px 15px;
     width: 100%;
-
 }
 
 .header__searchIcon {
@@ -47,6 +45,10 @@
     height: 22px !important;
     background-color: #ff9f00;
     border-radius: 0px 15px 15px 0px;
+}
+
+.header__searchIcon:hover{
+    color: aliceblue ;
 }
 
 .header__nav {
