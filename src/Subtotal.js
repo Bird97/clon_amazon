@@ -20,6 +20,7 @@ function Subtotal() { //uso de props
         thousandSeparator={true}
         //prefix={$}
       />  
+      <button>Proceed to Checkout</button>
     </div>
   );
 }
